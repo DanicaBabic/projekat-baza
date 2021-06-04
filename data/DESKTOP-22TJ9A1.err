@@ -1,0 +1,91 @@
+2021-04-29T22:40:02.426410Z 0 [System] [MY-010116] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe (mysqld 8.0.18) starting as process 14252
+2021-04-29T22:40:03.083737Z 0 [ERROR] [MY-011947] [InnoDB] Cannot open 'C:\Program Files\Ampps\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2021-04-29T22:40:03.158731Z 0 [Warning] [MY-010075] [Server] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: d67c9669-a93b-11eb-99c7-f875a4a452bb.
+2021-04-29T22:40:03.612274Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-04-29T22:40:03.720853Z 0 [System] [MY-010931] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-04-29T22:40:03.966486Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-04-30T08:19:54.248299Z 0 [System] [MY-010116] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe (mysqld 8.0.18) starting as process 12196
+2021-04-30T08:19:55.152268Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2021-04-30T08:19:55.159690Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2021-04-30T08:19:55.169796Z 0 [ERROR] [MY-011947] [InnoDB] Cannot open 'C:\Program Files\Ampps\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2021-04-30T08:19:55.296679Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-04-30T08:19:55.378727Z 0 [System] [MY-010931] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-04-30T08:19:55.538879Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-04-30T11:50:48.220492Z 0 [System] [MY-010116] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe (mysqld 8.0.18) starting as process 19572
+2021-04-30T11:50:49.403994Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2021-04-30T11:50:49.420320Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2021-04-30T11:50:49.446101Z 0 [ERROR] [MY-011947] [InnoDB] Cannot open 'C:\Program Files\Ampps\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2021-04-30T11:50:49.546516Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-04-30T11:50:49.706811Z 0 [System] [MY-010931] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-04-30T11:50:49.725280Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-05-02T11:25:00.612530Z 0 [System] [MY-010116] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe (mysqld 8.0.18) starting as process 1932
+2021-05-02T11:25:01.848579Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2021-05-02T11:25:01.864266Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2021-05-02T11:25:01.885009Z 0 [ERROR] [MY-011947] [InnoDB] Cannot open 'C:\Program Files\Ampps\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2021-05-02T11:25:02.029006Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-05-02T11:25:02.160972Z 0 [System] [MY-010931] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-05-02T11:25:02.173492Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-05-02T11:31:44.844841Z 37 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.18).
+2021-05-02T11:31:44.845390Z 0 [System] [MY-013105] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe: Normal shutdown.
+2021-05-02T11:31:45.264342Z 0 [System] [MY-010910] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.18)  MySQL Community Server - GPL.
+2021-05-02T16:01:12.167920Z 0 [System] [MY-010116] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe (mysqld 8.0.18) starting as process 13280
+2021-05-02T16:01:14.276784Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-05-02T16:01:14.406599Z 0 [System] [MY-010931] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-05-02T16:01:14.638815Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-05-03T07:53:16.505831Z 0 [System] [MY-010116] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe (mysqld 8.0.18) starting as process 5776
+2021-05-03T07:53:17.699132Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2021-05-03T07:53:17.714505Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2021-05-03T07:53:17.892350Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-05-03T07:53:18.023020Z 0 [System] [MY-010931] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-05-03T07:53:18.246571Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-05-15T07:39:32.376985Z 0 [System] [MY-010116] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe (mysqld 8.0.18) starting as process 17096
+2021-05-15T07:39:33.986560Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2021-05-15T07:39:34.002965Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2021-05-15T07:39:34.222594Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-05-15T07:39:34.370135Z 0 [System] [MY-010931] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-05-15T07:39:34.437037Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-05-16T14:03:48.590717Z 0 [System] [MY-010116] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe (mysqld 8.0.18) starting as process 6936
+2021-05-16T14:03:49.993143Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2021-05-16T14:03:50.011069Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2021-05-16T14:03:50.136950Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-05-16T14:03:50.278286Z 0 [System] [MY-010931] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-05-16T14:03:50.521952Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-05-16T15:38:08.355409Z 0 [System] [MY-010116] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe (mysqld 8.0.18) starting as process 10804
+2021-05-16T15:38:10.256251Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2021-05-16T15:38:10.272988Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2021-05-16T15:38:10.393909Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-05-16T15:38:10.523748Z 0 [System] [MY-010931] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-05-16T15:38:10.577095Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-05-18T10:00:50.298891Z 0 [System] [MY-010116] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe (mysqld 8.0.18) starting as process 10520
+2021-05-18T10:00:51.721546Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2021-05-18T10:00:51.730892Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2021-05-18T10:00:51.871354Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-05-18T10:00:51.967816Z 0 [System] [MY-010931] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-05-18T10:00:52.088951Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-05-18T10:01:05.785746Z 8 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.18).
+2021-05-18T10:01:05.786184Z 0 [System] [MY-013105] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe: Normal shutdown.
+2021-05-18T10:01:06.600868Z 0 [System] [MY-010910] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.18)  MySQL Community Server - GPL.
+2021-05-19T08:01:53.219076Z 0 [System] [MY-010116] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe (mysqld 8.0.18) starting as process 17496
+2021-05-19T08:01:54.331642Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-05-19T08:01:54.465249Z 0 [System] [MY-010931] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-05-19T08:01:54.558353Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-05-20T22:11:45.534946Z 0 [System] [MY-010116] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe (mysqld 8.0.18) starting as process 9824
+2021-05-20T22:11:46.515296Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2021-05-20T22:11:46.522478Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2021-05-20T22:11:46.657389Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-05-20T22:11:46.771160Z 0 [System] [MY-010931] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-05-20T22:11:46.926642Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-05-20T23:00:48.119942Z 193 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.18).
+2021-05-20T23:00:48.120552Z 0 [System] [MY-013105] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe: Normal shutdown.
+2021-05-20T23:00:49.074320Z 0 [System] [MY-010910] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.18)  MySQL Community Server - GPL.
+2021-05-25T14:53:19.405015Z 0 [System] [MY-010116] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe (mysqld 8.0.18) starting as process 22064
+2021-05-25T14:53:20.061439Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-05-25T14:53:20.121669Z 0 [System] [MY-010931] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-05-25T14:53:20.129140Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-05-25T14:55:00.893066Z 28 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.18).
+2021-05-25T14:55:00.893561Z 0 [System] [MY-013105] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe: Normal shutdown.
+2021-05-25T14:55:00.975446Z 0 [System] [MY-010910] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.18)  MySQL Community Server - GPL.
+2021-06-02T22:09:43.271621Z 0 [System] [MY-010116] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe (mysqld 8.0.18) starting as process 22072
+2021-06-02T22:09:44.392688Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-06-02T22:09:44.450306Z 0 [System] [MY-010931] [Server] C:\Program Files\Ampps\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-06-02T22:09:44.675467Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
